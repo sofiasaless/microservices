@@ -20,7 +20,7 @@
 
 <!--   aqui ficam os módulos do projeto -->
     <modules>
-<!--        <module>course</module>-->
+        <module>course</module>
         <module>core</module>
     </modules>
 
